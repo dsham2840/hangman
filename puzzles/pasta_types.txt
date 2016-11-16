@@ -1,0 +1,23 @@
+Pasta Types
+fusilli
+spaghetti
+fettuccine
+linguine
+penne
+cannelloni
+tagliatelle
+farfalle
+tortellini
+rigatoni
+macaroni
+ziti
+testaroli
+rotini
+fiori
+gnocchi
+quadrefiore
+ravioli
+tortellini
+orecchiette
+ricciolini
+conchiglioni
